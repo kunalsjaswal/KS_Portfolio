@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KS_Portfolio/static/css/main.21721ecd.css",
+    "main.js": "/KS_Portfolio/static/js/main.1e7546dc.js",
+    "static/media/photo2.png": "/KS_Portfolio/static/media/photo2.29f16ed038920654f962.png",
+    "static/media/finalArrow.png": "/KS_Portfolio/static/media/finalArrow.e50e1b9772108b00b9e8.png",
+    "index.html": "/KS_Portfolio/index.html",
+    "main.21721ecd.css.map": "/KS_Portfolio/static/css/main.21721ecd.css.map",
+    "main.1e7546dc.js.map": "/KS_Portfolio/static/js/main.1e7546dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21721ecd.css",
+    "static/js/main.1e7546dc.js"
+  ]
+}
