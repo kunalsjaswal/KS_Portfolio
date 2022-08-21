@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/KS_Portfolio/static/css/main.21721ecd.css",
-    "main.js": "/KS_Portfolio/static/js/main.1e7546dc.js",
+    "main.js": "/KS_Portfolio/static/js/main.f60c8faf.js",
     "static/media/photo2.png": "/KS_Portfolio/static/media/photo2.29f16ed038920654f962.png",
+    "static/media/Resume_Kunal.pdf": "/KS_Portfolio/static/media/Resume_Kunal.22536440ccb6263f80d1.pdf",
+    "static/media/vaccination.png": "/KS_Portfolio/static/media/vaccination.8f536832622f5ff54bf5.png",
+    "static/media/contact-us.gif": "/KS_Portfolio/static/media/contact-us.313c6bb2b0d8c94394fe.gif",
     "static/media/finalArrow.png": "/KS_Portfolio/static/media/finalArrow.e50e1b9772108b00b9e8.png",
     "index.html": "/KS_Portfolio/index.html",
     "main.21721ecd.css.map": "/KS_Portfolio/static/css/main.21721ecd.css.map",
-    "main.1e7546dc.js.map": "/KS_Portfolio/static/js/main.1e7546dc.js.map"
+    "main.f60c8faf.js.map": "/KS_Portfolio/static/js/main.f60c8faf.js.map"
   },
   "entrypoints": [
     "static/css/main.21721ecd.css",
-    "static/js/main.1e7546dc.js"
+    "static/js/main.f60c8faf.js"
   ]
 }
