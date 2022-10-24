@@ -1,5 +1,6 @@
 import './App.css';
 import Contact from './components/Contact';
+import ForFun from './components/ForFun';
 import LandPage from './components/LandPage';
 import Navbar from './components/Navbar';
 import Projects from './components/Projects';
@@ -11,7 +12,8 @@ function App() {
       <Navbar/>
       <LandPage/>
       <Skills/>
-      {/* <Projects/> */}
+      <ForFun/>
+      <Projects/>
       <Contact/>
     </div>
   );

@@ -33,6 +33,7 @@ export const LandPageDiv=styled.div`
         a:hover{
             padding:0% 3%;
         }
+
     }
 
     img{
@@ -86,6 +87,7 @@ export const LandPageDiv=styled.div`
             text-align:center;
             margin-bottom:15%;
         }
+        
     }
     @media (max-width:520px) {
 
@@ -102,5 +104,7 @@ export const LandPageDiv=styled.div`
                 font-size:1.5em;
             }
         }
+        
+        
     }
 `
